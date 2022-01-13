@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Zarrah",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
